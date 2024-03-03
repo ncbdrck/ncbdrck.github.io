@@ -3,9 +3,9 @@
 #### Technical Skills: ROS, Python, PyTorch, TensorFlow, C, PLC, MATLAB, VHDL, Verilog
 
 ## Education
-- PhD in Computer Engineering | Technological University of the Shannon, IE
-- M.Sc. in Electrical and Electronic Engineering | University of Nottingham, UK
-- B.Eng.(Hons) in Electronic Engineering | Sheffield Hallam University, UK
+PhD in Computer Engineering | Technological University of the Shannon, IE  
+M.Sc. in Electrical and Electronic Engineering | University of Nottingham, UK  
+B.Eng.(Hons) in Electronic Engineering | Sheffield Hallam University, UK
 
 ## Work Experience
 **Associate Lecturer @ Technological University of the Shannon, IE · Part-time (_Jan 2022 - Present_)**
