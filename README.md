@@ -1,5 +1,5 @@
 #### Email: [j.kapukotuwa@research.ait.ie](mailto:j.kapukotuwa@research.ait.ie)
-#### LinkedIn: [https://lk.linkedin.com/in/kapukotuwa](https://lk.linkedin.com/in/kapukotuwa)
+#### LinkedIn: [www.linkedin.com/in/kapukotuwa](https://www.linkedin.com/in/kapukotuwa/)
 #### Technical Skills: ROS, Python, PyTorch, TensorFlow, C, PLC, MATLAB, VHDL, Verilog
 
 ## Education
