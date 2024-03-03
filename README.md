@@ -26,24 +26,13 @@
 **Publication:** Under Review  
 [GitHub](https://github.com/ncbdrck/UniROS)
 
-I created a comprehensive framework for reinforcement learning in robotics, which allows users to train their robots in 
-both simulated and real-world environments concurrently. It simplifies the process of creating reinforcement learning 
-environments for robots and provides a unified interface for training and evaluating the robots in both simulated and 
-real-world environments.
+I created a comprehensive framework for reinforcement learning in robotics, which allows users to train their robots in both simulated and real-world environments concurrently. It simplifies the process of creating reinforcement learning environments for robots and provides a unified interface for training and evaluating the robots in both simulated and real-world environments.
 
-The following diagram illustrates the interconnected components of the proposed system, highlighting the dual-package approach with 
-RealROS for real-world robotic applications and MultiROS for simulated environments. The UniROS layer acts as an 
-abstraction to standardise the communication process, facilitating the creation and management of multiple environment 
-instances. The diagram encapsulates the ROS-based data flow and the primary interfaces for robot control, which handles 
-real-time interactions
+The following diagram illustrates the interconnected components of the proposed system, highlighting the dual-package approach with RealROS for real-world robotic applications and MultiROS for simulated environments. The UniROS layer acts as an abstraction to standardise the communication process, facilitating the creation and management of multiple environment instances. The diagram encapsulates the ROS-based data flow and the primary interfaces for robot control, which handles real-time interactions
 
 ![UniROS](/assets/img/abstraction_layers.png)
 
-The following Diagram of a real-time environment implementation strategy for RL with ROS integration, detailing the 
-interaction between the RL Agent process and the RL Environment process. The agent process updates actions based on 
-observations and refines its policy, while the environment-loop thread of the Environment process handles observation 
-creation, reward calculation, and sending actuator commands, all in real-time. This design minimises latency and allows
-for dynamic interaction between the RL agent and the environment for both simulation and real-world learning tasks.
+The following Diagram of a real-time environment implementation strategy for RL with ROS integration, detailing the interaction between the RL Agent process and the RL Environment process. The agent process updates actions based on observations and refines its policy, while the environment-loop thread of the Environment process handles observation creation, reward calculation, and sending actuator commands, all in real-time. This design minimises latency and allows for dynamic interaction between the RL agent and the environment for both simulation and real-world learning tasks.
 
 ![Real-time Environment](/assets/img/Ijrr_real_time.png)
 
@@ -53,10 +42,7 @@ for dynamic interaction between the RL agent and the environment for both simula
 [Publication](https://ieeexplore.ieee.org/document/9926475)  
 [GitHub](https://github.com/ncbdrck/multiros)
 
-MultiROS is an open-source Robot Operating System (ROS)-based simulation environment designed for concurrent deep 
-reinforcement learning. It provides a flexible and scalable framework for training and evaluating reinforcement 
-learning agents for complex robotic tasks. The simulation environment is based on 
-Gazebo, providing a realistic simulation platform for testing and developing reinforcement learning algorithms.
+MultiROS is an open-source Robot Operating System (ROS)-based simulation environment designed for concurrent deep reinforcement learning. It provides a flexible and scalable framework for training and evaluating reinforcement learning agents for complex robotic tasks. The simulation environment is based on Gazebo, providing a realistic simulation platform for testing and developing reinforcement learning algorithms.
 
 The following diagram illustrates the MultiROS architecture
 
