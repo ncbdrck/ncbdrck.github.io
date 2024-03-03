@@ -50,5 +50,5 @@ The following diagram illustrates the MultiROS architecture
 
 
 ## Publications
-1. J. Kapukotuwa, B. Lee, D. Devine and Y. Qiao, "MultiROS: ROS-Based Robot Simulation Environment for Concurrent Deep Reinforcement Learning," 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE), Mexico City, Mexico, 2022, pp. 1098-1103, doi: 10.1109/CASE49997.2022.9926475. keywords: {Training;Solid modeling;Three-dimensional displays;Service robots;Operating systems;Transfer learning;Reinforcement learning},
+1. J. Kapukotuwa, B. Lee, D. Devine and Y. Qiao, "MultiROS: ROS-Based Robot Simulation Environment for Concurrent Deep Reinforcement Learning," 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE), Mexico City, Mexico, 2022, pp. 1098-1103, doi: 10.1109/CASE49997.2022.9926475.
 
